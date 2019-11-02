@@ -1,0 +1,25 @@
+header {
+    top:0;
+    background: linear-gradient(gray, whitesmoke, gray);
+    height: auto;
+    position: relative;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    border-top: 1px solid #DDDDDD;
+    margin-bottom: 30px;
+}
+.header p {
+    margin: 0;
+}
+.header a {
+    color: #78828D
+}
+.header-top {
+    background: linear-gradient(gray, whitesmoke, gray);
+    border-top: 1px solid #DDDDDD;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.header-top p.pull-left {
+    padding-top: 6px;
+}
