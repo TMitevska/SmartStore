@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "598653368289",
+    "firebase_url": "https://smartshop-cef32.firebaseio.com",
+    "project_id": "smartshop-cef32",
+    "storage_bucket": "smartshop-cef32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598653368289:android:185aafd9cefbe2c3",
+        "android_client_info": {
+          "package_name": "com.example.tamara.smartshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598653368289-n2bvc9hcmqr3jt9v7p22jeek5m355u8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tamara.smartshop",
+            "certificate_hash": "d03bcbfb660516179e627f72dd53b6d8cb58290c"
+          }
+        },
+        {
+          "client_id": "598653368289-7sd2rr88asqh6cq6o7p0cj3adc0nnrb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nSHtbAC_EiNEuGEHS8itb8EokdKiogY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598653368289-7sd2rr88asqh6cq6o7p0cj3adc0nnrb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

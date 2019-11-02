@@ -1,0 +1,4 @@
+com\firestore\smartshop\database\databaseservice\DatabaseserviceApplication.class
+com\firestore\smartshop\database\databaseservice\UsersController.class
+com\firestore\smartshop\database\databaseservice\RaspberryController.class
+com\firestore\smartshop\database\databaseservice\DocumentController.class
