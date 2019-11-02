@@ -1,0 +1,13 @@
+.inputFile label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.inputFile input,
+.inputFile label {
+    margin: .4rem 0;
+}
+
+.inputFile .note {
+    font-size: .8em;
+}

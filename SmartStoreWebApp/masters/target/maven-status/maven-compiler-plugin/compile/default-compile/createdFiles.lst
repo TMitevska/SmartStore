@@ -1,0 +1,5 @@
+com\tamara\masters\smartshop\loginController.class
+com\tamara\masters\smartshop\registerController.class
+com\tamara\masters\smartshop\remoteControlController.class
+com\tamara\masters\smartshop\strings\Translator.class
+com\tamara\masters\smartshop\SmartshopApplication.class
