@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Паметна Продавница</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt_email">Корисничко име:</string>
+    <string name="prompt_password">Лозинка:</string>
+    <string name="action_sign_in">Логирај се</string>
+    <string name="muzika">Музика</string>
+    <string name="svetlo">Светло</string>
+    <string name="kamera">Камера</string>
+    <string name="vkluceno">Вклучено</string>
+    <string name="iskluceno">Исклучено</string>
+    <string name="faktura">Креирај фактура и испратница</string>
+    <string name="createdfaktura">Креирани фактури и испратница</string>
+    <string name="proizvodi">Производи</string>
+    <string name="nazad">Назад</string>
+    <string name="brfaktura">Број на фактура и испратница</string>
+    <string name="imeNaFirma">Име на фирма</string>
+    <string name="dopolnitelniPodatoci">Дополнителни податоци</string>
+    <string name="brNaProizvodi">Број на производи</string>
+    <string name="ponatamu">Понатаму</string>
+    <string name="odlogiraj">Одлогирај се</string>
+    <string name="listaFakturi">Листа со фактури</string>
+    <string name="listaUplatnici">Листа со испратници</string>
+    <string-array name="role_array">
+        <item>сопственик</item>
+        <item>вработен</item>
+        <item>сметководител</item>
+    </string-array>
+
+</resources>

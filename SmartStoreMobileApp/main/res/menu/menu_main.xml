@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/create"
+        android:icon="@drawable/list"
+        android:title="Креирај фактура и испратница" />
+    <item android:id="@+id/invoicelist"
+        android:icon="@drawable/pdf"
+        android:title="Креирани фактури" />
+    <item android:id="@+id/paysliplist"
+        android:icon="@drawable/pdf"
+        android:title="Креирани испратници" />
+    <item android:id="@+id/ai"
+        android:icon="@drawable/products"
+        android:title="@string/proizvodi" />
+    <item android:id="@+id/remoteControl"
+        android:icon="@drawable/pdf"
+        android:title="Далечинско управување" />
+    <item android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="@string/odlogiraj" />
+</menu>
